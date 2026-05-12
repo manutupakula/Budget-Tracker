@@ -55,7 +55,12 @@ Open `index.html`
 
 ## Screenshots 🏞️
 
-<img src="YOUR_IMAGE_LINK" width="900"/>
+<img width="930" height="946" alt="Screenshot 2026-05-12 134207" src="https://github.com/user-attachments/assets/d38fc7ba-ef6b-4f76-9366-ba48d5cfb823" />
+<img width="968" height="946" alt="Screenshot 2026-05-12 134129" src="https://github.com/user-attachments/assets/abebf532-c9c5-4462-974c-18fe4132a638" />
+<img width="930" height="946" alt="Screenshot 2026-05-12 134207" src="https://github.com/user-attachments/assets/88892a59-f266-4e9e-8439-4d5aa7ac9eef" />
+
+
+
 
 ## What I Learned 👨🏻‍💻
 
