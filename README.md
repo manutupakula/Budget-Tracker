@@ -55,9 +55,13 @@ Open `index.html`
 
 ## Screenshots 🏞️
 
-<img width="930" height="946" alt="Screenshot 2026-05-12 134207" src="https://github.com/user-attachments/assets/d38fc7ba-ef6b-4f76-9366-ba48d5cfb823" />
-<img width="968" height="946" alt="Screenshot 2026-05-12 134129" src="https://github.com/user-attachments/assets/abebf532-c9c5-4462-974c-18fe4132a638" />
-<img width="930" height="946" alt="Screenshot 2026-05-12 134207" src="https://github.com/user-attachments/assets/88892a59-f266-4e9e-8439-4d5aa7ac9eef" />
+<img width="1013" height="951" alt="Screenshot 2026-05-12 134101" src="https://github.com/user-attachments/assets/fcab9a3a-17c4-4d69-8c17-dfa66514a3ad" />
+<img width="968" height="946" alt="Screenshot 2026-05-12 134129" src="https://github.com/user-attachments/assets/384d209a-6de5-4141-8b5f-57f970a3590b" />
+<img width="930" height="946" alt="Screenshot 2026-05-12 134207" src="https://github.com/user-attachments/assets/c4546134-eb17-4ad8-bf79-9c0434716e47" />
+
+
+
+
 
 
 
